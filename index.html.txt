@@ -1,12 +1,2 @@
 <html>
 <head>
-</head>
-<body>
-</body>
-</html>
-<body>
-</body>
-<button>
-</button>
-<div>
-</div>
